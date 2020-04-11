@@ -1,0 +1,35 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    font-style: italic;
+    background-color: #414040;
+    color: 	#92ddc8;
+    text-align: center;
+}
+h1{
+    margin-top: 3%;
+
+    font-size: 5.5rem;
+}
+
+p{
+    font-size: 2rem;
+}
+
+img {
+    margin: 10px;
+    width: 220px;
+    height: 220px;
+}
+
+.player1{
+    display: inline;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    margin-top: 5%;
+}
